@@ -10,14 +10,14 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="//cloud.github.com/downloads/marcolino/world-flags+-sprite/flags32.css"
+    href="//cloud.github.com/downloads/marcolino/world-flags-extended-sprite/flags32.css"
 />
 ```
 
 In the body of your html file:
 
 ```html
-<ul class="s32">
+<ul class="f32">
   <li class="flag north-america">Northern America</li>
   <li class="flag south-europe">Southern Europe</li>
   <li class="flag west-asia">Western Asia</li>

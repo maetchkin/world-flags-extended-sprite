@@ -10,7 +10,7 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="//cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+    href="//cloud.github.com/downloads/marcolino/world-regions-silouettes-sprite/flags32.css"
 />
 ```
 
@@ -18,15 +18,38 @@ In the body of your html file:
 
 ```html
 <ul class="f32">
-  <li class="flag ar">Argentina</li>
-  <li class="flag au">Australia</li>
-  <li class="flag at">Austria</li>
+  <li class="flag north-america">Northern America</li>
+  <li class="flag south-europe">Southern Europe</li>
+  <li class="flag west-asia">Western Asia</li>
   ...
 </ul>
 ```
 
-The countries corresponding to the codes can be found at: [http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+The regions corresponding to the codes are:
+  'america':              America
+  'north-america':        Northern America
+  'caribbean':            Caribbean
+  'central-america':      Central America
+  'south-america':        Southern America
+  'europe':               Europe
+  'east-europe':          Eastern Europe
+  'north-europe':         Northern Europe
+  'west-europe':          Western Europe
+  'south-europe':         Southern Europe
+  'africa':               Africa
+  'east-africa':          Eastern Africa
+  'north-africa':         Northern Africa
+  'west-africa':          Western Africa
+  'middle-africa':        Middle Africa
+  'south-africa':         Southern Africa
+  'asia':                 Asia
+  'east-asia':            Eastern Asia
+  'south-east-asia':      South-eastern Asia
+  'south-central-asia':   South-central Asia
+  'japan':                Japan
+  'west-asia':            Western Asia
+  'oceania':              Oceania
+  'australia-newzealand': Australia and New Zealand
+  'melanesia':            Melanesia
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
-
-See *the cheese wiki*: http://www.cheesewiki.com/ for an example

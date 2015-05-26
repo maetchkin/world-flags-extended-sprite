@@ -1,6 +1,6 @@
-# The silouettes of all countries regions in the world in one sprite
+# The silhouettes of all countries regions in the world in one sprite
 
-Include 1 css file and have all the worlds' regions silouettes on your site. Tell everyone who uses a lot of regions silouettes to use this link, so it will be in everyone's cache!
+Include 1 css file and have all the worlds' regions silhouettes on your site. Tell everyone who uses a lot of regions silhouettes to use this link, so it will be in everyone's cache!
 
 ## Example usage:
 
@@ -10,17 +10,17 @@ In the head of your html file:
 <link
     rel="stylesheet"
     type="text/css"
-    href="//cloud.github.com/downloads/marcolino/world-regions-silouettes-sprite/flags32.css"
+    href="//cloud.github.com/downloads/marcolino/world-regions-silhouettes-sprite/flags32.css"
 />
 ```
 
 In the body of your html file:
 
 ```html
-<ul class="f32">
-  <li class="flag north-america">Northern America</li>
-  <li class="flag south-europe">Southern Europe</li>
-  <li class="flag west-asia">Western Asia</li>
+<ul class="s32">
+  <li class="silhouette north-america">Northern America</li>
+  <li class="silhouette south-europe">Southern Europe</li>
+  <li class="silhouette west-asia">Western Asia</li>
   ...
 </ul>
 ```

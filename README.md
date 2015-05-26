@@ -56,16 +56,16 @@ The regions corresponding to the codes are:
 
 SHOULD BECOME (From "World Regions Based on United Nations Country Grouping"):
 
-    Africa
-    Asia
-    Central America
-    Eastern Europe
-    European Union
-    Middle East
-    North America
-    Oceania
-    South America
-    The Caribbean
+  - 'africa':             Africa
+  - 'asia':               Asia
+  - 'caribbean':          Caribbean
+  - 'central-america':    Central America
+  - 'eastern-europe':     Eastern Europe
+  - 'europe':             Europe
+  - 'middle-east':        Middle East
+  - 'north-america':      North America
+  - 'oceania':            Oceania
+  - 'south-america':      South America
 
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.

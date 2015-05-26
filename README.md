@@ -26,8 +26,9 @@ In the body of your html file:
 ```
 
 The regions corresponding to the codes are:
-  'america':              America
-  'north-america':        Northern America
+
+- 'america':              America
+- 'north-america':        Northern America
   'caribbean':            Caribbean
   'central-america':      Central America
   'south-america':        Southern America

@@ -27,30 +27,45 @@ In the body of your html file:
 
 The regions corresponding to the codes are:
 
+- 'africa':               Africa
 - 'america':              America
-- 'north-america':        Northern America
+- 'anctartic':            Anctartic
+- 'asia':                 Asia
+- 'australia-newzealand': Australia and New Zealand
 - 'caribbean':            Caribbean
 - 'central-america':      Central America
-- 'south-america':        Southern America
-- 'europe':               Europe
-- 'east-europe':          Eastern Europe
-- 'north-europe':         Northern Europe
-- 'west-europe':          Western Europe
-- 'south-europe':         Southern Europe
-- 'africa':               Africa
 - 'east-africa':          Eastern Africa
-- 'north-africa':         Northern Africa
-- 'west-africa':          Western Africa
-- 'middle-africa':        Middle Africa
-- 'south-africa':         Southern Africa
-- 'asia':                 Asia
 - 'east-asia':            Eastern Asia
-- 'south-east-asia':      South-eastern Asia
-- 'south-central-asia':   South-central Asia
+- 'east-europe':          Eastern Europe
+- 'europe':               Europe
 - 'japan':                Japan
-- 'west-asia':            Western Asia
-- 'oceania':              Oceania
-- 'australia-newzealand': Australia and New Zealand
 - 'melanesia':            Melanesia
+- 'middle-africa':        Middle Africa
+- 'north-africa':         Northern Africa
+- 'north-america':        Northern America
+- 'north-europe':         Northern Europe
+- 'oceania':              Oceania
+- 'south-africa':         Southern Africa
+- 'south-america':        Southern America
+- 'south-central-asia':   South-central Asia
+- 'south-east-asia':      South-eastern Asia
+- 'south-europe':         Southern Europe
+- 'west-africa':          Western Africa
+- 'west-asia':            Western Asia
+- 'west-europe':          Western Europe
+
+SHOULD BECOME (From "World Regions Based on United Nations Country Grouping"):
+
+    Africa
+    Asia
+    Central America
+    Eastern Europe
+    European Union
+    Middle East
+    North America
+    Oceania
+    South America
+    The Caribbean
+
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.

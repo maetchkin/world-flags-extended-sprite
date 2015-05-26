@@ -29,28 +29,28 @@ The regions corresponding to the codes are:
 
 - 'america':              America
 - 'north-america':        Northern America
-  'caribbean':            Caribbean
-  'central-america':      Central America
-  'south-america':        Southern America
-  'europe':               Europe
-  'east-europe':          Eastern Europe
-  'north-europe':         Northern Europe
-  'west-europe':          Western Europe
-  'south-europe':         Southern Europe
-  'africa':               Africa
-  'east-africa':          Eastern Africa
-  'north-africa':         Northern Africa
-  'west-africa':          Western Africa
-  'middle-africa':        Middle Africa
-  'south-africa':         Southern Africa
-  'asia':                 Asia
-  'east-asia':            Eastern Asia
-  'south-east-asia':      South-eastern Asia
-  'south-central-asia':   South-central Asia
-  'japan':                Japan
-  'west-asia':            Western Asia
-  'oceania':              Oceania
-  'australia-newzealand': Australia and New Zealand
-  'melanesia':            Melanesia
+- 'caribbean':            Caribbean
+- 'central-america':      Central America
+- 'south-america':        Southern America
+- 'europe':               Europe
+- 'east-europe':          Eastern Europe
+- 'north-europe':         Northern Europe
+- 'west-europe':          Western Europe
+- 'south-europe':         Southern Europe
+- 'africa':               Africa
+- 'east-africa':          Eastern Africa
+- 'north-africa':         Northern Africa
+- 'west-africa':          Western Africa
+- 'middle-africa':        Middle Africa
+- 'south-africa':         Southern Africa
+- 'asia':                 Asia
+- 'east-asia':            Eastern Asia
+- 'south-east-asia':      South-eastern Asia
+- 'south-central-asia':   South-central Asia
+- 'japan':                Japan
+- 'west-asia':            Western Asia
+- 'oceania':              Oceania
+- 'australia-newzealand': Australia and New Zealand
+- 'melanesia':            Melanesia
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.

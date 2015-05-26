@@ -1,6 +1,6 @@
 {
   "name": "world-flags-extended-sprite",
   "version": "0.0.1",
-  "main": "stylesheets/flags32.css",
+  "main": "stylesheets/flags16.css",
   "ignore": ""
 }
